@@ -15,4 +15,4 @@ else {
  greeting = 'Welcome';
 }
 
-document.write('<h>' +greeting + '</h>');
+document.write('<h1>' +greeting + '</h1>');
